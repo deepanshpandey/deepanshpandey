@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Deepansh - [deepanshpandey.ml][website] 👋
 
-<!--
-**deepanshpandey/deepanshpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/deepanshpandey_)
 
-Here are some ideas to get you started:
+## I'm a Student, Programmer in Construction, and Android Enthusiast!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I just started my College
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to Internships so I can improve Myself
+- 🥅 2020 Goals: Learn new Programming Languages And Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Progran and play piano / Keyboard
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-46xzhlayv.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
+
+### Connect with me:
+
+[<img align="left" alt="deepanshpandey.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Deepansh Pandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Deepansh Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Deepansh Pandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+</details>
+
+[website]: https://deepanshpandey.ml
+[twitter]: https://twitter.com/deepanshpandey_
+[instagram]: https://instagram.com/_deepansh.pandey_
+[linkedin]: https://www.linkedin.com/in/deepansh-pandey-8abb531b4
