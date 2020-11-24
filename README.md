@@ -24,6 +24,7 @@
 <br />
 
 ---
+[![Deepansh's github stats](https://github-readme-stats-nine-lilac.vercel.app/api?username=deepanshpandey)](https://github.com/deepanshpandey/github-readme-stats)
 
 </details>
 
