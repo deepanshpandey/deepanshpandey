@@ -9,8 +9,9 @@
 - 👯 I’m looking for Internships so I can improve Myself
 - 🥅 2020 Goals: Learn new Programming Languages And Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Program and play piano / Keyboard
+- 🎧 Listen to what I am listening and I assure you'll love
 
-### Spotify Playing 🎧
+### I am Currently Listening On Spotify 🎧
 
 [<img src="https://spotify-now-playing-46xzhlayv.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
 
