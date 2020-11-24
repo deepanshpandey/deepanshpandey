@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Internships so I can improve Myself
 - 🥅 2020 Goals: Learn new Programming Languages And Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Progran and play piano / Keyboard
+- ⚡ Fun fact: I love to Program and play piano / Keyboard
 
 ### Spotify Playing 🎧
 
