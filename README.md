@@ -7,7 +7,7 @@
 - 🔭 I just started my College
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Internships so I can improve Myself
-- 🥅 2020 Goals: Learn new Programming Languages And Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn new Programming Languages And Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Program and play piano / Keyboard
 - 🎧 Listen to what I am listening and I assure you'll love
 
@@ -32,6 +32,6 @@
 
 [website]: https://deepanshpandey.ml
 [twitter]: https://twitter.com/deepanshpandey_
-[instagram]: https://instagram.com/_deepansh.pandey_
+[instagram]: https://instagram.com/coffeeinacafe
 [linkedin]: https://www.linkedin.com/in/deepansh-pandey-8abb531b4
 [dev]: https://dev.to/deepanshpandey
