@@ -26,7 +26,7 @@
 <br />
 
 ---
-[![Deepansh's github stats](https://github-readme-stats-nine-lilac.vercel.app/api?username=deepanshpandey&show_icons=true)](https://github.com/deepanshpandey/github-readme-stats)
+[![Deepansh's github stats](https://github-readme-stats.vercel.app/api?username=deeepanshpandey)](https://github.com/deepanshpandey?tab=repositories)
 
 </details>
 
