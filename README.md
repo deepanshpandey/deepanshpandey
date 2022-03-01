@@ -13,7 +13,7 @@
 
 ### I am Currently Listening On Spotify 🎧
 
-[<img src="https://spotify-now-playing-46xzhlayv.vercel.app/api/spotify-playing" alt="Deepansh Pandey Spotify Playing" width="350" />](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq?si=oLhLix1jTrKlzMZ3-RyA3w)
+[![Spotify](https://spotify-deepansh.vercel.app/api/spotify)](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq)
 
 ### Connect with me:
 
