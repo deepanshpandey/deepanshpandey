@@ -13,7 +13,7 @@
 
 ### I am Currently Listening On Spotify 🎧
 
-[![Spotify](https://novatorem-466fx5pdh-deepanshpandey.vercel.app/api/spotify)](https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OS4liB4zoUpmPJtxiKLF9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Connect with me:
 
