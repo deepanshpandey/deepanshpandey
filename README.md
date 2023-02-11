@@ -4,15 +4,12 @@
 
 ## I'm a Student, Programmer in Construction, and Android Enthusiast!!
 
-- 🔭 I just started my College
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am a 3rd year College Student
+- 🌱 I’m currently learning Android Development 🤣
 - 👯 I’m looking for Internships so I can improve Myself
-- 🥅 2021 Goals: Learn new Programming Languages And Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Program and play piano / Keyboard
-- 🎧 Listen to what I am listening and I assure you'll love
-
-### I am Currently Listening On Spotify 🎧
-
+- 🥅 2023 Goals: Learn new Programming Languages And Contribute more to Open Source projects
+- ⚡ Fun fact: I play digital Piano
+- 🎧 Listen to my spotify playlists and I assure you'll love them
 
 
 ### Connect with me:
@@ -22,6 +19,7 @@
 [<img align="left" alt="Deepansh Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Deepansh Pandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepansh Pandey | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="Deepansh Pandey | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />][spotify]
 
 <br />
 
