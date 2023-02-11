@@ -19,7 +19,7 @@
 [<img align="left" alt="Deepansh Pandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Deepansh Pandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Deepansh Pandey | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="Deepansh Pandey | Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />] [spotify]
+[<img align="left" alt="Deepansh Pandey | Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -33,3 +33,4 @@
 [instagram]: https://instagram.com/coffeeinacafe
 [linkedin]: https://www.linkedin.com/in/deepansh-pandey-8abb531b4
 [dev]: https://dev.to/deepanshpandey
+[spotify]: https://open.spotify.com/user/21gsmdzwp4u22tfa22g7hqntq
