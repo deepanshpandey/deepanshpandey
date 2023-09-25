@@ -1,4 +1,4 @@
-### Hi there, I'm Deepansh - [deepanshpandey.ml][website] 👋
+### Hi there, I'm Deepansh - [deepanshpandey.github.io][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/deepanshpandey_)
 
@@ -21,14 +21,10 @@
 [<img align="left" alt="Deepansh Pandey | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="Deepansh Pandey | Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
-<br />
-
----
-[![Deepansh's github stats](https://github-readme-stats.vercel.app/api?username=deepanshpandey)](https://github.com/deepanshpandey?tab=repositories)
 
 </details>
 
-[website]: https://deepanshpandey.ml
+[website]: https://deepanshpandey.github.io
 [twitter]: https://twitter.com/deepanshpandey_
 [instagram]: https://instagram.com/coffeeinacafe
 [linkedin]: https://www.linkedin.com/in/deepansh-pandey-8abb531b4
