@@ -1,8 +1,6 @@
-### Hi there, I'm Deepansh - [deepanshpandey.github.io][website] 👋
+## Hi there, I'm Deepansh - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deepanshpandey_?label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/deepanshpandey_)
-
-## I'm a Student, Programmer in Construction, and Android Enthusiast!!
+### I'm a Student, Programmer in Construction, and Android Enthusiast!!
 
 - 🔭 I am a 3rd year College Student
 - 🌱 I’m currently learning Android Development 🤣
