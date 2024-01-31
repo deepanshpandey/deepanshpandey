@@ -5,7 +5,7 @@
 - 🔭 I am a final year College Student
 - 🌱 I’m currently learning Android Development 🤣
 - 👯 I’m looking for Internships so I can improve Myself
-- 🥅 2023 Goals: Learn new Programming Languages And Contribute more to Open Source projects
+- 🥅 2024 Goals: Master Programming Languages learnt till now And Contribute more to Open Source projects
 - ⚡ Fun fact: I can play Piano
 - 🎧 Listen to my spotify playlists and I assure you'll love them
 
